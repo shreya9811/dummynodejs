@@ -1,0 +1,21 @@
+{
+  "name": "simpleapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shreya",
+  "license": "ISC",
+  "devDependencies": {
+    "ws": "3.3.2"
+  },
+  "dependencies": {
+    "async-limiter": "^1.0.1",
+    "bootstrap": "^5.2.1",
+    "loadash": "^1.0.0",
+    "safe-buffer": "^5.1.2",
+    "ultron": "^1.1.1"
+  },
+  "description": ""
+}
